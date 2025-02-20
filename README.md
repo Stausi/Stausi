@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Stausi!
 <hr>
 
-I am a Danish Developer which is leader of [stausi scripts](https://github.com/Stausi). <br>
+I am a Danish Developer which is leader of [stausi scripts](https://shop.stausi.com/). <br>
 I'm specialized in creation of **GTA V (FiveM)** & **Red Dead Redemption II (RedM)** scripts.
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white)](https://shop.stausi.com/)
